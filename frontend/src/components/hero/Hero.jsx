@@ -14,11 +14,12 @@ const Hero  = () => {
 </div>
 <p>collections</p>
 <p>for everyone</p>
-      </div>
-      <div className="hero-latest-button">
+<div className="hero-latest-button">
 <div>Latest Collection</div>
 <img src={arrowIcon} alt="" />
       </div>
+      </div>
+     
       <div className="hero-right">
 <img src={heroImage} alt="" />
       </div>
